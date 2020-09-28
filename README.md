@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # redux-book-list
 
 Simple React app using Redux
